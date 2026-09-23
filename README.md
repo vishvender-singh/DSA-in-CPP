@@ -45,5 +45,6 @@ These programs are written using standard Turbo C++ syntax (legacy C++).
 
 ​(Note: If you want to run these on modern compilers like GCC or MinGW, you will need to change <iostream.h> to <iostream>, remove <conio.h> functions, and change void main() to int main().)
 ##👨‍💻 Author
-​Vishvender Singh
+
+​**Vishvender Singh**
 
