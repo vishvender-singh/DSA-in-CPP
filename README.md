@@ -41,11 +41,12 @@ These programs are written using standard Turbo C++ syntax (legacy C++).
    ```
 2. ​Open Turbo C++ (or any DOSBox-based C++ emulator).
 3. ​Load the file: Open the specific .cpp file from the downloaded folder.
-​4. Compile and Run: Use Alt + F9 to compile and Ctrl + F9 to run the program.
+4. **Compile and Run:** Use `Alt + F9` to compile and `Ctrl + F9` to run the program.
 
-​(Note: If you want to run these on modern compilers like GCC or MinGW, you will need to change <iostream.h> to <iostream>, remove <conio.h> functions, and change void main() to int main().)
+*(Note: If you want to run these on modern compilers like GCC or MinGW, you will need to change `<iostream.h>` to `<iostream>`, remove `<conio.h>` functions, and change `void main()` to `int main()`.)*
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-​**Vishvender Singh**
+**Vishvender Singh**
+   
 
